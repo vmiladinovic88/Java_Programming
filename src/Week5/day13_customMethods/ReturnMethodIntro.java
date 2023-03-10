@@ -1,4 +1,4 @@
-package Week5.day13;
+package Week5.day13_customMethods;
 
 public class ReturnMethodIntro {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Week5.day12;
+package Week5.day12_customMethods;
 
 public class CustomMethodWithParameter {
     public static void main(String[] args) {

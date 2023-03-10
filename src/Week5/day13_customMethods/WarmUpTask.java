@@ -1,6 +1,4 @@
-package Week5.day13;
-
-import java.util.Scanner;
+package Week5.day13_customMethods;
 
 public class WarmUpTask {
     public static void main(String[] args) {

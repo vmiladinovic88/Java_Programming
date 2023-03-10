@@ -1,4 +1,4 @@
-package Week5.day13;
+package Week5.day13_customMethods;
 
 import java.util.Scanner;
 
